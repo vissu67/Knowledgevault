@@ -1,2 +1,0 @@
-serviceClass: com.openkm.frontend.client.service.OKMAuthService
-path: 8E9D66732B4977404D9B5414F77BC482.gwt.rpc

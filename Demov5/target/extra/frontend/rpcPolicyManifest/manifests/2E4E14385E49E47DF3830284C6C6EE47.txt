@@ -1,2 +1,0 @@
-serviceClass: com.openkm.frontend.client.service.OKMMailService
-path: 2DCE108F6C4E67A8C6676A5A762768CE.gwt.rpc

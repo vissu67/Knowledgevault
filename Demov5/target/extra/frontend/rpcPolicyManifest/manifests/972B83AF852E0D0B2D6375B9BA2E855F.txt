@@ -1,2 +1,0 @@
-serviceClass: com.openkm.frontend.client.service.OKMRepositoryService
-path: 13E5960AF484D8041C2A8EF80E01BAC1.gwt.rpc
