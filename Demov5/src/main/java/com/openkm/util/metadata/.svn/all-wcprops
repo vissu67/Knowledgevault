@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/5627/branches/5.1/openkm/src/main/java/com/openkm/util/metadata
+END
+PdfMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/java/com/openkm/util/metadata/PdfMetadata.java
+END
+MetadataExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/openkm/!svn/ver/5627/branches/5.1/openkm/src/main/java/com/openkm/util/metadata/MetadataExtractor.java
+END
+OfficeMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/java/com/openkm/util/metadata/OfficeMetadata.java
+END
+OpenOfficeMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/java/com/openkm/util/metadata/OpenOfficeMetadata.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/openkm/!svn/ver/7237/branches/5.1/openkm/src/main/java/com/openkm/module/base
+END
+BaseDocumentModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/7222/branches/5.1/openkm/src/main/java/com/openkm/module/base/BaseDocumentModule.java
+END
+BaseAuthModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/6004/branches/5.1/openkm/src/main/java/com/openkm/module/base/BaseAuthModule.java
+END
+BasePropertyGroupModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/openkm/!svn/ver/7180/branches/5.1/openkm/src/main/java/com/openkm/module/base/BasePropertyGroupModule.java
+END
+BaseMailModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/6431/branches/5.1/openkm/src/main/java/com/openkm/module/base/BaseMailModule.java
+END
+BaseScriptingModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/openkm/!svn/ver/6313/branches/5.1/openkm/src/main/java/com/openkm/module/base/BaseScriptingModule.java
+END
+BasePropertyModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/5540/branches/5.1/openkm/src/main/java/com/openkm/module/base/BasePropertyModule.java
+END
+BaseNoteModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/7158/branches/5.1/openkm/src/main/java/com/openkm/module/base/BaseNoteModule.java
+END
+BaseNotificationModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/java/com/openkm/module/base/BaseNotificationModule.java
+END
+BaseWorkflowModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/5540/branches/5.1/openkm/src/main/java/com/openkm/module/base/BaseWorkflowModule.java
+END
+BaseFolderModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/openkm/!svn/ver/7237/branches/5.1/openkm/src/main/java/com/openkm/module/base/BaseFolderModule.java
+END

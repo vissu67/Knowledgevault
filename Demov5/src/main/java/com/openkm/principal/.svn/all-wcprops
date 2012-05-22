@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/openkm/!svn/ver/7128/branches/5.1/openkm/src/main/java/com/openkm/principal
+END
+PrincipalAdapterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/openkm/!svn/ver/5616/branches/5.1/openkm/src/main/java/com/openkm/principal/PrincipalAdapterException.java
+END
+PrincipalAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/5616/branches/5.1/openkm/src/main/java/com/openkm/principal/PrincipalAdapter.java
+END
+LdapPrincipalAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/5864/branches/5.1/openkm/src/main/java/com/openkm/principal/LdapPrincipalAdapter.java
+END
+DatabasePrincipalAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/5616/branches/5.1/openkm/src/main/java/com/openkm/principal/DatabasePrincipalAdapter.java
+END
+UsersRolesPrincipalAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/openkm/!svn/ver/7128/branches/5.1/openkm/src/main/java/com/openkm/principal/UsersRolesPrincipalAdapter.java
+END
+DummyPrincipalAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/openkm/!svn/ver/5616/branches/5.1/openkm/src/main/java/com/openkm/principal/DummyPrincipalAdapter.java
+END

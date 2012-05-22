@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/openkm/!svn/ver/6882/branches/5.1/openkm/src/main/webapp/WEB-INF
+END
+jboss-classloading.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/WEB-INF/jboss-classloading.xml
+END
+jboss-wsse-server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/WEB-INF/jboss-wsse-server.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/WEB-INF/config.xml
+END
+jboss-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/WEB-INF/jboss-web.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/openkm/!svn/ver/6882/branches/5.1/openkm/src/main/webapp/WEB-INF/web.xml
+END

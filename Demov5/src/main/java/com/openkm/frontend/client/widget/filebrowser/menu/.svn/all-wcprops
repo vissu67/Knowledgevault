@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/6874/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/filebrowser/menu
+END
+TaxonomyMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/openkm/!svn/ver/6874/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/filebrowser/menu/TaxonomyMenu.java
+END
+TemplatesMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/openkm/!svn/ver/6818/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/filebrowser/menu/TemplatesMenu.java
+END
+TrashMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/openkm/!svn/ver/5574/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/filebrowser/menu/TrashMenu.java
+END
+MailMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/openkm/!svn/ver/5574/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/filebrowser/menu/MailMenu.java
+END
+PersonalMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/openkm/!svn/ver/6818/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/filebrowser/menu/PersonalMenu.java
+END
+ThesaurusMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/openkm/!svn/ver/6874/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/filebrowser/menu/ThesaurusMenu.java
+END
+CategoriesMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/openkm/!svn/ver/6874/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/filebrowser/menu/CategoriesMenu.java
+END

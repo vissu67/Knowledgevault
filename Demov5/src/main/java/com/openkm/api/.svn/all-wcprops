@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/openkm/!svn/ver/6990/branches/5.1/openkm/src/main/java/com/openkm/api
+END
+OKMStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/openkm/!svn/ver/5527/branches/5.1/openkm/src/main/java/com/openkm/api/OKMStats.java
+END
+OKMPropertyGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/openkm/!svn/ver/5527/branches/5.1/openkm/src/main/java/com/openkm/api/OKMPropertyGroup.java
+END
+OKMAuth.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/5527/branches/5.1/openkm/src/main/java/com/openkm/api/OKMAuth.java
+END
+OKMScripting.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/5527/branches/5.1/openkm/src/main/java/com/openkm/api/OKMScripting.java
+END
+OKMUserConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/openkm/!svn/ver/5527/branches/5.1/openkm/src/main/java/com/openkm/api/OKMUserConfig.java
+END
+OKMSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/5527/branches/5.1/openkm/src/main/java/com/openkm/api/OKMSearch.java
+END
+OKMNote.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/5527/branches/5.1/openkm/src/main/java/com/openkm/api/OKMNote.java
+END
+OKMBookmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/5527/branches/5.1/openkm/src/main/java/com/openkm/api/OKMBookmark.java
+END
+OKMWorkflow.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/6836/branches/5.1/openkm/src/main/java/com/openkm/api/OKMWorkflow.java
+END
+OKMFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/6952/branches/5.1/openkm/src/main/java/com/openkm/api/OKMFolder.java
+END
+OKMDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/6990/branches/5.1/openkm/src/main/java/com/openkm/api/OKMDocument.java
+END
+OKMRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/openkm/!svn/ver/5527/branches/5.1/openkm/src/main/java/com/openkm/api/OKMRepository.java
+END
+OKMMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/5527/branches/5.1/openkm/src/main/java/com/openkm/api/OKMMail.java
+END
+OKMProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/5527/branches/5.1/openkm/src/main/java/com/openkm/api/OKMProperty.java
+END
+OKMNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/openkm/!svn/ver/5527/branches/5.1/openkm/src/main/java/com/openkm/api/OKMNotification.java
+END
+OKMDashboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/5527/branches/5.1/openkm/src/main/java/com/openkm/api/OKMDashboard.java
+END

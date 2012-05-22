@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/openkm/!svn/ver/7073/branches/5.1/openkm/src/main/java/com/openkm/servlet/mobile
+END
+HandlerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/openkm/!svn/ver/6923/branches/5.1/openkm/src/main/java/com/openkm/servlet/mobile/HandlerServlet.java
+END
+FolderComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/openkm/!svn/ver/7073/branches/5.1/openkm/src/main/java/com/openkm/servlet/mobile/FolderComparator.java
+END
+DocumentComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/openkm/!svn/ver/7073/branches/5.1/openkm/src/main/java/com/openkm/servlet/mobile/DocumentComparator.java
+END

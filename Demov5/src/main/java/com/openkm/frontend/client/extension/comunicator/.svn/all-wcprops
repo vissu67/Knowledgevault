@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/openkm/!svn/ver/6496/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/comunicator
+END
+GeneralComunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/openkm/!svn/ver/6022/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/comunicator/GeneralComunicator.java
+END
+UtilComunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/openkm/!svn/ver/6496/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/comunicator/UtilComunicator.java
+END
+WorkspaceComunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/openkm/!svn/ver/5596/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/comunicator/WorkspaceComunicator.java
+END
+TabFolderComunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/openkm/!svn/ver/5596/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/comunicator/TabFolderComunicator.java
+END
+FileBrowserComunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/openkm/!svn/ver/5596/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/comunicator/FileBrowserComunicator.java
+END
+SearchComunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/openkm/!svn/ver/5596/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/comunicator/SearchComunicator.java
+END
+TabDocumentComunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/openkm/!svn/ver/5596/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/comunicator/TabDocumentComunicator.java
+END
+DashboardComunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/openkm/!svn/ver/6094/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/comunicator/DashboardComunicator.java
+END
+TabMailComunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/openkm/!svn/ver/5596/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/comunicator/TabMailComunicator.java
+END
+NavigatorComunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/openkm/!svn/ver/5596/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/comunicator/NavigatorComunicator.java
+END

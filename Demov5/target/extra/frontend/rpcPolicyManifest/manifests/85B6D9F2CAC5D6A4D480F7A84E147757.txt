@@ -1,0 +1,2 @@
+serviceClass: com.openkm.frontend.client.service.OKMGeneralService
+path: 1FB15F0A449C99A914395979A69167BA.gwt.rpc

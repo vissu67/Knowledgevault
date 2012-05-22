@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/openkm/!svn/ver/6718/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/categories
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/openkm/!svn/ver/5571/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/categories/Status.java
+END
+CategoriesTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/openkm/!svn/ver/5571/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/categories/CategoriesTree.java
+END
+CategoriesSelectPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/openkm/!svn/ver/6718/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/categories/CategoriesSelectPopup.java
+END
+CategoriesMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/openkm/!svn/ver/5571/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/categories/CategoriesMenu.java
+END
+FolderSelectTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/openkm/!svn/ver/6718/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/categories/FolderSelectTree.java
+END

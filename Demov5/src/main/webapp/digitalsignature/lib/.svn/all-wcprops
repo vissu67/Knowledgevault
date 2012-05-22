@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/lib
+END
+xalan-2.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/lib/xalan-2.7.0.jar
+END
+bcmail-jdk15-143.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/lib/bcmail-jdk15-143.jar
+END
+xmlsec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/lib/xmlsec.jar
+END
+bcprov-jdk15-143.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/lib/bcprov-jdk15-143.jar
+END
+bctsp-jdk15-143.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/lib/bctsp-jdk15-143.jar
+END
+jakarta-log4j-1.2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/lib/jakarta-log4j-1.2.6.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/lib/commons-logging.jar
+END
+jxades-1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/lib/jxades-1.0-signed.jar
+END
+myxmlsec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/lib/myxmlsec.jar
+END
+itext-1.4.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/lib/itext-1.4.8.jar
+END

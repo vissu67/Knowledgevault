@@ -1,0 +1,241 @@
+====================================
+Types potentially sent from browser:
+====================================
+
+Reachable types computed on: Mon May 21 13:24:10 IST 2012
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException
+   Serialization status
+      Instantiable
+   Path
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+java.lang.Exception
+   Serialization status
+      Field serializable
+   Path
+      'java.lang.Exception' is reachable as a supertype of type 'class java.lang.RuntimeException'
+      'java.lang.RuntimeException' is reachable as a supertype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException' is reachable as a subtype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+java.lang.RuntimeException
+   Serialization status
+      Field serializable
+   Path
+      'java.lang.RuntimeException' is reachable as a supertype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException' is reachable as a subtype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+java.lang.String
+   Serialization status
+      Instantiable
+   Path
+      Started from 'java.lang.String'
+
+java.lang.Throwable
+   Serialization status
+      Field serializable
+   Path
+      'java.lang.Throwable' is reachable as a supertype of type 'class java.lang.Exception'
+      'java.lang.Exception' is reachable as a supertype of type 'class java.lang.RuntimeException'
+      'java.lang.RuntimeException' is reachable as a supertype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException' is reachable as a subtype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+===================================
+Types potentially sent from server:
+===================================
+
+Reachable types computed on: Mon May 21 13:24:10 IST 2012
+E
+   Serialization status
+      Not serializable
+   Path
+      'E' is reachable from field 'element' of type 'java.util.Collections.SingletonList<E>'
+      'java.util.Collections.SingletonList<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+E
+   Serialization status
+      Not serializable
+   Path
+      'E' is reachable from field 'exposeElement' of type 'java.util.Vector<E>'
+      'java.util.Vector<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+E
+   Serialization status
+      Not serializable
+   Path
+      'E' is reachable from field 'exposeElement' of type 'java.util.ArrayList<E>'
+      'java.util.ArrayList<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+E
+   Serialization status
+      Not serializable
+   Path
+      'E' is reachable from field 'exposeElement' of type 'java.util.LinkedList<E>'
+      'java.util.LinkedList<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+E[]
+   Serialization status
+      Not serializable
+   Path
+      'E[]' is reachable from field 'array' of type 'java.util.Arrays.ArrayList<E>'
+      'java.util.Arrays.ArrayList<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+boolean
+   Serialization status
+      Not serializable
+   Path
+      'boolean' is reachable from field 'started' of type 'com.openkm.frontend.client.bean.GWTFileUploadingStatus'
+      'com.openkm.frontend.client.bean.GWTFileUploadingStatus' is reachable as a subtype of type 'class com.openkm.frontend.client.bean.GWTFileUploadingStatus'
+      Started from 'com.openkm.frontend.client.bean.GWTFileUploadingStatus'
+
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException
+   Serialization status
+      Instantiable
+   Path
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+com.openkm.frontend.client.OKMException
+   Serialization status
+      Instantiable
+   Path
+      Started from 'com.openkm.frontend.client.OKMException'
+
+com.openkm.frontend.client.bean.GWTFileUploadingStatus
+   Serialization status
+      Instantiable
+   Path
+      Started from 'com.openkm.frontend.client.bean.GWTFileUploadingStatus'
+
+com.openkm.frontend.client.bean.GWTTestImap
+   Serialization status
+      Instantiable
+   Path
+      Started from 'com.openkm.frontend.client.bean.GWTTestImap'
+
+int
+   Serialization status
+      Not serializable
+   Path
+      'int' is reachable from field 'size' of type 'java.util.LinkedList<E>'
+      'java.util.LinkedList<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+java.lang.Exception
+   Serialization status
+      Field serializable
+   Path
+      'java.lang.Exception' is reachable as a supertype of type 'class java.lang.RuntimeException'
+      'java.lang.RuntimeException' is reachable as a supertype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException' is reachable as a subtype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+java.lang.RuntimeException
+   Serialization status
+      Field serializable
+   Path
+      'java.lang.RuntimeException' is reachable as a supertype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException' is reachable as a subtype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+java.lang.String
+   Serialization status
+      Instantiable
+   Path
+      Started from 'java.lang.String'
+
+java.lang.String[]
+   Serialization status
+      Instantiable
+   Path
+      'java.lang.String' is reachable from type argument 0 of type 'java.util.Arrays.ArrayList<E>'
+      'java.util.Arrays.ArrayList<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+java.lang.Throwable
+   Serialization status
+      Field serializable
+   Path
+      'java.lang.Throwable' is reachable as a supertype of type 'class java.lang.Exception'
+      'java.lang.Exception' is reachable as a supertype of type 'class java.lang.RuntimeException'
+      'java.lang.RuntimeException' is reachable as a supertype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException' is reachable as a subtype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+java.util.ArrayList<java.lang.String>
+   Serialization status
+      Instantiable
+   Path
+      'java.util.ArrayList<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+java.util.Arrays.ArrayList<java.lang.String>
+   Serialization status
+      Instantiable
+   Path
+      'java.util.Arrays.ArrayList<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+java.util.Collections.EmptyList
+   Serialization status
+      Instantiable
+   Path
+      'java.util.Collections.EmptyList' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+java.util.Collections.SingletonList<java.lang.String>
+   Serialization status
+      Instantiable
+   Path
+      'java.util.Collections.SingletonList<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+java.util.LinkedList<java.lang.String>
+   Serialization status
+      Instantiable
+   Path
+      'java.util.LinkedList<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+java.util.LinkedList.Node<E>
+   Serialization status
+      Not serializable
+   Path
+      'java.util.LinkedList.Node<E>' is reachable from field 'header' of type 'java.util.LinkedList<E>'
+      'java.util.LinkedList<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+java.util.List<java.lang.String>
+   Serialization status
+      Not serializable
+   Path
+      Started from 'java.util.List<java.lang.String>'
+
+java.util.Stack<java.lang.String>
+   Serialization status
+      Instantiable
+   Path
+      'java.util.Stack<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+java.util.Vector<java.lang.String>
+   Serialization status
+      Instantiable
+   Path
+      'java.util.Vector<java.lang.String>' is reachable as a subtype of type 'interface java.util.List<java.lang.String>'
+      Started from 'java.util.List<java.lang.String>'
+
+long
+   Serialization status
+      Not serializable
+   Path
+      'long' is reachable from field 'bytesRead' of type 'com.openkm.frontend.client.bean.GWTFileUploadingStatus'
+      'com.openkm.frontend.client.bean.GWTFileUploadingStatus' is reachable as a subtype of type 'class com.openkm.frontend.client.bean.GWTFileUploadingStatus'
+      Started from 'com.openkm.frontend.client.bean.GWTFileUploadingStatus'
+

@@ -1,0 +1,86 @@
+10
+
+dir
+7277
+https://openkm.svn.sourceforge.net/svnroot/openkm/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/widget
+https://openkm.svn.sourceforge.net/svnroot/openkm
+
+
+
+2011-04-04T08:36:47.826708Z
+5602
+monkiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+83b0a90a-68b0-46cf-a364-a9eead20c43e
+
+HasWidget.java
+file
+
+
+
+
+2011-10-05T06:10:47.417092Z
+445f2b948a2981f91a0b0cfb4538776a
+2011-04-04T08:36:25.406137Z
+5600
+monkiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1167
+
+preview
+dir
+
+tabfolder
+dir
+
+toolbar
+dir
+
+menu
+dir
+
+tabdocument
+dir
+
+tabworkspace
+dir
+
+tabmail
+dir
+
+userinfo
+dir
+

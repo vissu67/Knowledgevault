@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/openkm/!svn/ver/5543/branches/5.1/openkm/src/main/java/com/openkm/kea/stemmers
+END
+FrenchStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/5543/branches/5.1/openkm/src/main/java/com/openkm/kea/stemmers/FrenchStemmer.java
+END
+SpanishStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/openkm/!svn/ver/5543/branches/5.1/openkm/src/main/java/com/openkm/kea/stemmers/SpanishStemmer.java
+END
+SremovalStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/openkm/!svn/ver/5543/branches/5.1/openkm/src/main/java/com/openkm/kea/stemmers/SremovalStemmer.java
+END
+GermanStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/5543/branches/5.1/openkm/src/main/java/com/openkm/kea/stemmers/GermanStemmer.java
+END
+LovinsStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/5543/branches/5.1/openkm/src/main/java/com/openkm/kea/stemmers/LovinsStemmer.java
+END
+SpanishStemmerSB.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/openkm/!svn/ver/5543/branches/5.1/openkm/src/main/java/com/openkm/kea/stemmers/SpanishStemmerSB.java
+END
+PorterStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/5543/branches/5.1/openkm/src/main/java/com/openkm/kea/stemmers/PorterStemmer.java
+END
+IteratedLovinsStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/5543/branches/5.1/openkm/src/main/java/com/openkm/kea/stemmers/IteratedLovinsStemmer.java
+END
+NoStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/openkm/!svn/ver/5543/branches/5.1/openkm/src/main/java/com/openkm/kea/stemmers/NoStemmer.java
+END
+Stemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/openkm/!svn/ver/5543/branches/5.1/openkm/src/main/java/com/openkm/kea/stemmers/Stemmer.java
+END

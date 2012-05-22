@@ -1,0 +1,200 @@
+====================================
+Types potentially sent from browser:
+====================================
+
+Reachable types computed on: Mon May 21 13:24:14 IST 2012
+E
+   Serialization status
+      Not serializable
+   Path
+      'E' is reachable from field 'exposeElement' of type 'java.util.ArrayList<E>'
+      'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>' is reachable as a subtype of type 'class java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+      Started from 'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+
+K
+   Serialization status
+      Not serializable
+   Path
+      'K' is reachable from field 'exposeKey' of type 'java.util.HashMap<K, V>'
+      'java.util.HashMap<java.lang.String, java.lang.String>' is reachable as a subtype of type 'class java.util.HashMap<java.lang.String, java.lang.String>'
+      'java.util.HashMap<java.lang.String, java.lang.String>' is reachable from field 'map' of type 'com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable as a subtype of type 'class com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable from type argument 0 of type 'java.util.ArrayList<E>'
+      'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>' is reachable as a subtype of type 'class java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+      Started from 'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+
+V
+   Serialization status
+      Not serializable
+   Path
+      'V' is reachable from field 'exposeValue' of type 'java.util.HashMap<K, V>'
+      'java.util.HashMap<java.lang.String, java.lang.String>' is reachable as a subtype of type 'class java.util.HashMap<java.lang.String, java.lang.String>'
+      'java.util.HashMap<java.lang.String, java.lang.String>' is reachable from field 'map' of type 'com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable as a subtype of type 'class com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable from type argument 0 of type 'java.util.ArrayList<E>'
+      'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>' is reachable as a subtype of type 'class java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+      Started from 'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+
+com.allen_sauer.gwt.log.client.ClientStackTraceElement
+   Serialization status
+      Instantiable
+   Path
+      Type 'com.allen_sauer.gwt.log.client.ClientStackTraceElement' is reachable from array type 'com.allen_sauer.gwt.log.client.ClientStackTraceElement[]'
+      'com.allen_sauer.gwt.log.client.ClientStackTraceElement[]' is reachable from field 'clientStackTrace' of type 'com.allen_sauer.gwt.log.client.WrappedClientThrowable'
+      'com.allen_sauer.gwt.log.client.WrappedClientThrowable' is reachable as a subtype of type 'class com.allen_sauer.gwt.log.client.WrappedClientThrowable'
+      'com.allen_sauer.gwt.log.client.WrappedClientThrowable' is reachable from field 'wrappedClientThrowable' of type 'com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable as a subtype of type 'class com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable from type argument 0 of type 'java.util.ArrayList<E>'
+      'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>' is reachable as a subtype of type 'class java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+      Started from 'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+
+com.allen_sauer.gwt.log.client.ClientStackTraceElement[]
+   Serialization status
+      Instantiable
+   Path
+      'com.allen_sauer.gwt.log.client.ClientStackTraceElement[]' is reachable from field 'clientStackTrace' of type 'com.allen_sauer.gwt.log.client.WrappedClientThrowable'
+      'com.allen_sauer.gwt.log.client.WrappedClientThrowable' is reachable as a subtype of type 'class com.allen_sauer.gwt.log.client.WrappedClientThrowable'
+      'com.allen_sauer.gwt.log.client.WrappedClientThrowable' is reachable from field 'wrappedClientThrowable' of type 'com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable as a subtype of type 'class com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable from type argument 0 of type 'java.util.ArrayList<E>'
+      'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>' is reachable as a subtype of type 'class java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+      Started from 'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+
+com.allen_sauer.gwt.log.client.LogRecord
+   Serialization status
+      Instantiable
+   Path
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable from type argument 0 of type 'java.util.ArrayList<E>'
+      'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>' is reachable as a subtype of type 'class java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+      Started from 'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+
+com.allen_sauer.gwt.log.client.WrappedClientThrowable
+   Serialization status
+      Instantiable
+   Path
+      'com.allen_sauer.gwt.log.client.WrappedClientThrowable' is reachable from field 'wrappedClientThrowable' of type 'com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable as a subtype of type 'class com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable from type argument 0 of type 'java.util.ArrayList<E>'
+      'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>' is reachable as a subtype of type 'class java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+      Started from 'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException
+   Serialization status
+      Instantiable
+   Path
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+int
+   Serialization status
+      Not serializable
+   Path
+      'int' is reachable from field 'level' of type 'com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable as a subtype of type 'class com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable from type argument 0 of type 'java.util.ArrayList<E>'
+      'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>' is reachable as a subtype of type 'class java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+      Started from 'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+
+java.lang.Exception
+   Serialization status
+      Field serializable
+   Path
+      'java.lang.Exception' is reachable as a supertype of type 'class java.lang.RuntimeException'
+      'java.lang.RuntimeException' is reachable as a supertype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException' is reachable as a subtype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+java.lang.RuntimeException
+   Serialization status
+      Field serializable
+   Path
+      'java.lang.RuntimeException' is reachable as a supertype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException' is reachable as a subtype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+java.lang.String
+   Serialization status
+      Instantiable
+   Path
+      Started from 'java.lang.String'
+
+java.lang.Throwable
+   Serialization status
+      Field serializable
+   Path
+      'java.lang.Throwable' is reachable as a supertype of type 'class java.lang.Exception'
+      'java.lang.Exception' is reachable as a supertype of type 'class java.lang.RuntimeException'
+      'java.lang.RuntimeException' is reachable as a supertype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException' is reachable as a subtype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>
+   Serialization status
+      Instantiable
+   Path
+      Started from 'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+
+java.util.HashMap<java.lang.String, java.lang.String>
+   Serialization status
+      Instantiable
+   Path
+      'java.util.HashMap<java.lang.String, java.lang.String>' is reachable from field 'map' of type 'com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable as a subtype of type 'class com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable from type argument 0 of type 'java.util.ArrayList<E>'
+      'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>' is reachable as a subtype of type 'class java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+      Started from 'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+
+java.util.LinkedHashMap<java.lang.String, java.lang.String>
+   Serialization status
+      Instantiable
+   Path
+      'java.util.LinkedHashMap<java.lang.String, java.lang.String>' is reachable as a subtype of type 'class java.util.HashMap<java.lang.String, java.lang.String>'
+      'java.util.HashMap<java.lang.String, java.lang.String>' is reachable from field 'map' of type 'com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable as a subtype of type 'class com.allen_sauer.gwt.log.client.LogRecord'
+      'com.allen_sauer.gwt.log.client.LogRecord' is reachable from type argument 0 of type 'java.util.ArrayList<E>'
+      'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>' is reachable as a subtype of type 'class java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+      Started from 'java.util.ArrayList<com.allen_sauer.gwt.log.client.LogRecord>'
+
+===================================
+Types potentially sent from server:
+===================================
+
+Reachable types computed on: Mon May 21 13:24:14 IST 2012
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException
+   Serialization status
+      Instantiable
+   Path
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+java.lang.Exception
+   Serialization status
+      Field serializable
+   Path
+      'java.lang.Exception' is reachable as a supertype of type 'class java.lang.RuntimeException'
+      'java.lang.RuntimeException' is reachable as a supertype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException' is reachable as a subtype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+java.lang.RuntimeException
+   Serialization status
+      Field serializable
+   Path
+      'java.lang.RuntimeException' is reachable as a supertype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException' is reachable as a subtype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+
+java.lang.String
+   Serialization status
+      Instantiable
+   Path
+      Started from 'java.lang.String'
+
+java.lang.Throwable
+   Serialization status
+      Field serializable
+   Path
+      'java.lang.Throwable' is reachable as a supertype of type 'class java.lang.Exception'
+      'java.lang.Exception' is reachable as a supertype of type 'class java.lang.RuntimeException'
+      'java.lang.RuntimeException' is reachable as a supertype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException' is reachable as a subtype of type 'class com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+      Started from 'com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException'
+

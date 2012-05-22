@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/5564/branches/5.1/openkm/src/main/java/com/openkm/kea/stopwords
+END
+Stopwords.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/openkm/!svn/ver/5564/branches/5.1/openkm/src/main/java/com/openkm/kea/stopwords/Stopwords.java
+END
+StopwordsFrench.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/openkm/!svn/ver/5564/branches/5.1/openkm/src/main/java/com/openkm/kea/stopwords/StopwordsFrench.java
+END
+StopwordsSpanish.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/5564/branches/5.1/openkm/src/main/java/com/openkm/kea/stopwords/StopwordsSpanish.java
+END
+StopwordsEnglish.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/5564/branches/5.1/openkm/src/main/java/com/openkm/kea/stopwords/StopwordsEnglish.java
+END
+StopwordsGerman.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/openkm/!svn/ver/5564/branches/5.1/openkm/src/main/java/com/openkm/kea/stopwords/StopwordsGerman.java
+END

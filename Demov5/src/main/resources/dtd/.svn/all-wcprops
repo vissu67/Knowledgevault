@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/openkm/!svn/ver/7249/branches/5.1/openkm/src/main/resources/dtd
+END
+report-parameters-2.0.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/openkm/!svn/ver/6863/branches/5.1/openkm/src/main/resources/dtd/report-parameters-2.0.dtd
+END
+workflow-forms-1.0.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/dtd/workflow-forms-1.0.dtd
+END
+workflow-forms-1.1.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/dtd/workflow-forms-1.1.dtd
+END
+workflow-forms-2.0.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/7036/branches/5.1/openkm/src/main/resources/dtd/workflow-forms-2.0.dtd
+END
+workflow-forms-2.1.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/7249/branches/5.1/openkm/src/main/resources/dtd/workflow-forms-2.1.dtd
+END
+property-groups-1.0.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/dtd/property-groups-1.0.dtd
+END
+property-groups-1.1.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/dtd/property-groups-1.1.dtd
+END
+property-groups-2.0.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/6798/branches/5.1/openkm/src/main/resources/dtd/property-groups-2.0.dtd
+END

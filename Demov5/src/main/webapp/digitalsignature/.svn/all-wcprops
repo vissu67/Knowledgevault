@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/LICENSE
+END
+uji-format-facturae-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-format-facturae-2.1.0-signed.jar
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/CHANGELOG
+END
+uji-crypto-jxades-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-crypto-jxades-2.1.0-signed.jar
+END
+uji-format-odf-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-format-odf-2.1.0-signed.jar
+END
+uji-format-pdf-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-format-pdf-2.1.0-signed.jar
+END
+uji-crypto-cms-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-crypto-cms-2.1.0-signed.jar
+END
+uji-ui-applet-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-ui-applet-2.1.0-signed.jar
+END
+uji-utils-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-utils-2.1.0-signed.jar
+END
+uji-crypto-xmldsign-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-crypto-xmldsign-2.1.0-signed.jar
+END
+uji-crypto-mityc-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-crypto-mityc-2.1.0-signed.jar
+END
+uji-crypto-openxades-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-crypto-openxades-2.1.0-signed.jar
+END
+uji-keystore-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-keystore-2.1.0-signed.jar
+END
+uji-config-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-config-2.1.0-signed.jar
+END
+uji-crypto-core-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-crypto-core-2.1.0-signed.jar
+END
+uji-crypto-raw-2.1.0-signed.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/uji-crypto-raw-2.1.0-signed.jar
+END
+MicrosoftCryptoApi_0_3.dll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/digitalsignature/MicrosoftCryptoApi_0_3.dll
+END

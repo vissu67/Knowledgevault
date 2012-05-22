@@ -1,0 +1,1477 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<script type="text/javascript">
+function show(elementName)
+{
+hp = document.getElementById(elementName);
+hp.style.visibility = "Visible";
+}
+function hide(elementName)
+{
+hp = document.getElementById(elementName);
+hp.style.visibility = "Hidden";
+}
+</script>
+<title>
+Method Dependencies for Initially Live Code
+</title>
+<style type="text/css" media="screen">
+@import url('goog.css');
+@import url('inlay.css');
+@import url('soyc.css');
+</style>
+</head>
+<body>
+<div class="g-doc">
+<div id="hd" class="g-section g-tpl-50-50 g-split">
+<div class="g-unit g-first">
+<p>
+<a href="index.html" id="gwt-logo" class="soyc-ir"><span>Google Web Toolkit</span></a>
+</p>
+</div>
+<div class="g-unit">
+</div>
+</div>
+<div id="soyc-appbar-lrg">
+<div class="g-section g-tpl-75-25 g-split">
+<div class="g-unit g-first">
+<h1>Method Dependencies for Initially Live Code</h1>
+</div>
+<div class="g-unit"></div>
+</div>
+</div>
+<div id="bd">
+<h2>Showing Package: com.openkm.frontend.client.widget.categories</h2>
+<a name="com.openkm.frontend.client.widget.categories.CategoriesMenu$1"><h3 class="soyc-class-header">Class: com.openkm.frontend.client.widget.categories.CategoriesMenu$1</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu$1</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu$1::CategoriesMenu$1</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu$1::execute</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu$1::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.openkm.frontend.client.widget.categories.CategoriesMenu$2"><h3 class="soyc-class-header">Class: com.openkm.frontend.client.widget.categories.CategoriesMenu$2</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu$2</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu$2::CategoriesMenu$2</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu$2::execute</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu$2::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.openkm.frontend.client.widget.categories.CategoriesMenu$3"><h3 class="soyc-class-header">Class: com.openkm.frontend.client.widget.categories.CategoriesMenu$3</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu$3</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu$3::CategoriesMenu$3</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu$3::execute</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu$3::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.openkm.frontend.client.widget.categories.CategoriesMenu"><h3 class="soyc-class-header">Class: com.openkm.frontend.client.widget.categories.CategoriesMenu</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu::$clinit</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu::CategoriesMenu</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu::checkMenuOptionPermissions</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu::disableAllMenuOption</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.filebrowser.FileBrowser::$showMenu</li>
+<li>com.openkm.frontend.client.widget.filebrowser.ExtendedScrollTable::onBrowserEvent</li>
+<li>com.openkm.frontend.client.widget.filebrowser.FileBrowser::FileBrowser</li>
+<li>com.openkm.frontend.client.panel.center.Browser::Browser</li>
+<li>com.openkm.frontend.client.panel.center.Desktop::Desktop</li>
+<li>com.openkm.frontend.client.panel.ExtendedDockPanel::ExtendedDockPanel</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu::enableAllMenuOptions</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu::enableRootMenuOptions</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu::evaluateMenuOptions</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu::langRefresh</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.foldertree.FolderTree::$langRefresh</li>
+<li>com.openkm.frontend.client.panel.left.Navigator::$langRefresh</li>
+<li>com.openkm.frontend.client.Main$3::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$3::onSuccess</li>
+<li>com.openkm.frontend.client.Main::$refreshLang</li>
+<li>com.openkm.frontend.client.widget.mainmenu.MainMenu$38::execute</li>
+<li>com.openkm.frontend.client.widget.mainmenu.MainMenu::$initAvailableLanguage</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$2::$onSuccess</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$2::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesMenu::setAvailableOption</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$setAvailableAction</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.openkm.frontend.client.widget.categories.CategoriesSelectPopup$1"><h3 class="soyc-class-header">Class: com.openkm.frontend.client.widget.categories.CategoriesSelectPopup$1</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup$1</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup$1::CategoriesSelectPopup$1</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup$1::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup$1::onClick</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.openkm.frontend.client.widget.categories.CategoriesSelectPopup$2"><h3 class="soyc-class-header">Class: com.openkm.frontend.client.widget.categories.CategoriesSelectPopup$2</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup$2</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup$2::CategoriesSelectPopup$2</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup$2::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup$2::onClick</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.openkm.frontend.client.widget.categories.CategoriesSelectPopup"><h3 class="soyc-class-header">Class: com.openkm.frontend.client.widget.categories.CategoriesSelectPopup</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::$enable</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$3::onSelection</li>
+<li>com.google.gwt.event.logical.shared.SelectionHandler::$clinit</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::$executeAction</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup$2::onClick</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::$show</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::show</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::show</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.openkm.frontend.client.widget.categories.CategoriesTree"><h3 class="soyc-class-header">Class: com.openkm.frontend.client.widget.categories.CategoriesTree</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesTree</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesTree::CategoriesTree</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.panel.left.Navigator::Navigator</li>
+<li>com.openkm.frontend.client.panel.center.Desktop::Desktop</li>
+<li>com.openkm.frontend.client.panel.ExtendedDockPanel::ExtendedDockPanel</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesTree::copy</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.panel.left.Navigator::Navigator</li>
+<li>com.openkm.frontend.client.panel.center.Desktop::Desktop</li>
+<li>com.openkm.frontend.client.panel.ExtendedDockPanel::ExtendedDockPanel</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesTree::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.panel.left.Navigator::Navigator</li>
+<li>com.openkm.frontend.client.panel.center.Desktop::Desktop</li>
+<li>com.openkm.frontend.client.panel.ExtendedDockPanel::ExtendedDockPanel</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.CategoriesTree::move</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.panel.left.Navigator::Navigator</li>
+<li>com.openkm.frontend.client.panel.center.Desktop::Desktop</li>
+<li>com.openkm.frontend.client.panel.ExtendedDockPanel::ExtendedDockPanel</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.openkm.frontend.client.widget.categories.FolderSelectTree$1"><h3 class="soyc-class-header">Class: com.openkm.frontend.client.widget.categories.FolderSelectTree$1</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$1</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::$onSuccess</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::FolderSelectTree$1</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::onFailure</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::onSuccess</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.openkm.frontend.client.widget.categories.FolderSelectTree$2"><h3 class="soyc-class-header">Class: com.openkm.frontend.client.widget.categories.FolderSelectTree$2</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$2</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$2::$onSuccess</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$2::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$2::FolderSelectTree$2</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$2::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$2::onFailure</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$2::onSuccess</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.openkm.frontend.client.widget.categories.FolderSelectTree$3"><h3 class="soyc-class-header">Class: com.openkm.frontend.client.widget.categories.FolderSelectTree$3</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$3</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$3::FolderSelectTree$3</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$3::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree$3::onSelection</a>
+<ul class="soyc-call-stack-list">
+<li>com.google.gwt.event.logical.shared.SelectionHandler::$clinit</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.openkm.frontend.client.widget.categories.FolderSelectTree"><h3 class="soyc-class-header">Class: com.openkm.frontend.client.widget.categories.FolderSelectTree</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree::$addFolder</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::$onSuccess</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree::$clinit</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$reset</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::$show</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::show</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree::$evaluesFolderIcon</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::$onSuccess</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree::$getCategories</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$reset</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::$show</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::show</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree::$getChilds</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$refresh</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$3::onSelection</li>
+<li>com.google.gwt.event.logical.shared.SelectionHandler::$clinit</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree::$hideAllBranch</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::$onSuccess</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree::$preventFolderInconsitences</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$evaluesFolderIcon</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::$onSuccess</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree::$refresh</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$3::onSelection</li>
+<li>com.google.gwt.event.logical.shared.SelectionHandler::$clinit</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree::$reset</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::$show</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::show</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.FolderSelectTree::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<a name="com.openkm.frontend.client.widget.categories.Status"><h3 class="soyc-class-header">Class: com.openkm.frontend.client.widget.categories.Status</a></h3>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.Status</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.Status::Status</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.Status::$clinit</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.Status::$setFlagRoot</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$getCategories</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$reset</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::$show</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::show</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.Status::$refresh</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.Status::$setFlagRoot</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$getCategories</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$reset</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::$show</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::show</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.Status::$setFlagChilds</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$getChilds</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$refresh</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$3::onSelection</li>
+<li>com.google.gwt.event.logical.shared.SelectionHandler::$clinit</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.Status::$setFlagRoot</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$getCategories</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$reset</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::$show</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::show</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.Status::$unsetFlagChilds</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$1::onFailure</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.Status::$unsetFlagRoot</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree$2::onFailure</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::$$init</li>
+<li>com.openkm.frontend.client.widget.categories.FolderSelectTree::FolderSelectTree</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.Status::Status</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+<div class='main'>
+<a class='toggle soyc-call-stack-link' onclick='toggle.call(this)'><span class='calledBy'> Call stack: </span>com.openkm.frontend.client.widget.categories.Status::getClass</a>
+<ul class="soyc-call-stack-list">
+<li>com.openkm.frontend.client.widget.categories.CategoriesSelectPopup::CategoriesSelectPopup</li>
+<li>com.openkm.frontend.client.widget.categories.CategoriesTree::$init</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$nextStatus</li>
+<li>com.openkm.frontend.client.widget.startup.StartUp::$recoverFromError</li>
+<li>com.openkm.frontend.client.Main::$showError</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties$1::onFailure</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::$$init</li>
+<li>com.openkm.frontend.client.util.WorkspaceUserProperties::WorkspaceUserProperties</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad2</li>
+<li>com.openkm.frontend.client.Main$1::$onSuccess</li>
+<li>com.openkm.frontend.client.Main$1::onSuccess</li>
+<li>com.google.gwt.user.client.rpc.AsyncCallback::$clinit</li>
+<li>com.openkm.frontend.client.Main::$onModuleLoad</li>
+</ul>
+</div>
+</div>
+</body>
+</html>
