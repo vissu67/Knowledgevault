@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/test/java/com/openkm/jcr
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/test/java/com/openkm/jcr/Config.java
+END
+CleanUnusedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/test/java/com/openkm/jcr/CleanUnusedTest.java
+END
+SecurityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/test/java/com/openkm/jcr/SecurityTest.java
+END
+SimpleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/test/java/com/openkm/jcr/SimpleTest.java
+END

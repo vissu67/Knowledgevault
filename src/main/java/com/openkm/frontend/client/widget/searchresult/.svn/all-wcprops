@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/6796/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchresult
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/openkm/!svn/ver/6788/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchresult/Status.java
+END
+Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/openkm/!svn/ver/6771/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchresult/Menu.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/openkm/!svn/ver/6771/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchresult/SearchResult.java
+END
+ExtendedScrollTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/openkm/!svn/ver/6771/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchresult/ExtendedScrollTable.java
+END
+SearchFullResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/openkm/!svn/ver/6796/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchresult/SearchFullResult.java
+END
+MenuPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/openkm/!svn/ver/5551/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchresult/MenuPopup.java
+END
+Score.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/openkm/!svn/ver/5551/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchresult/Score.java
+END
+SearchCompactResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/openkm/!svn/ver/6771/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchresult/SearchCompactResult.java
+END
+ExtendedColumnSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/openkm/!svn/ver/6771/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchresult/ExtendedColumnSorter.java
+END

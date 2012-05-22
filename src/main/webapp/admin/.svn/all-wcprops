@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/openkm/!svn/ver/7234/branches/5.1/openkm/src/main/webapp/admin
+END
+report_param_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/6865/branches/5.1/openkm/src/main/webapp/admin/report_param_list.jsp
+END
+profile_menu_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_menu_edit.jsp
+END
+populate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/populate.jsp
+END
+database_query.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/openkm/!svn/ver/7107/branches/5.1/openkm/src/main/webapp/admin/database_query.jsp
+END
+stamp_image_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/openkm/!svn/ver/7144/branches/5.1/openkm/src/main/webapp/admin/stamp_image_edit.jsp
+END
+mime_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/mime_edit.jsp
+END
+profile_general.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_general.jsp
+END
+crontab_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/crontab_edit.jsp
+END
+experimental.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/5980/branches/5.1/openkm/src/main/webapp/admin/experimental.jsp
+END
+generate_thesaurus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/generate_thesaurus.jsp
+END
+stats.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/stats.jsp
+END
+installation_reset.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/openkm/!svn/ver/5356/branches/5.1/openkm/src/main/webapp/admin/installation_reset.jsp
+END
+logcat_view.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/logcat_view.jsp
+END
+mail_account_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/6680/branches/5.1/openkm/src/main/webapp/admin/mail_account_edit.jsp
+END
+translation_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/translation_edit.jsp
+END
+repository_search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/repository_search.jsp
+END
+role_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/role_edit.jsp
+END
+translation_add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/translation_add.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/openkm/!svn/ver/5990/branches/5.1/openkm/src/main/webapp/admin/index.jsp
+END
+user_config_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/user_config_edit.jsp
+END
+logcat.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/logcat.jsp
+END
+config_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/openkm/!svn/ver/5702/branches/5.1/openkm/src/main/webapp/admin/config_edit.jsp
+END
+repository_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/6438/branches/5.1/openkm/src/main/webapp/admin/repository_list.jsp
+END
+token_view.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/token_view.jsp
+END
+language_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/language_list.jsp
+END
+document_filter_rule_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/document_filter_rule_edit.jsp
+END
+task_instance_view.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/task_instance_view.jsp
+END
+logged_users.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/logged_users.jsp
+END
+mail_filter_rule_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/mail_filter_rule_edit.jsp
+END
+profile_tab.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_tab.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/openkm/!svn/ver/5533/branches/5.1/openkm/src/main/webapp/admin/home.jsp
+END
+document_filter_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/document_filter_edit.jsp
+END
+profile_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_list.jsp
+END
+mail_filter_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/mail_filter_edit.jsp
+END
+active_sessions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/active_sessions.jsp
+END
+scripting.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/openkm/!svn/ver/7164/branches/5.1/openkm/src/main/webapp/admin/scripting.jsp
+END
+profile_chat_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_chat_edit.jsp
+END
+menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/openkm/!svn/ver/7131/branches/5.1/openkm/src/main/webapp/admin/menu.jsp
+END
+repository_backup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/repository_backup.jsp
+END
+report_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/openkm/!svn/ver/6865/branches/5.1/openkm/src/main/webapp/admin/report_list.jsp
+END
+profile_dashboard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_dashboard.jsp
+END
+profile_stacks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_stacks.jsp
+END
+logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/logout.jsp
+END
+repository_import.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/7151/branches/5.1/openkm/src/main/webapp/admin/repository_import.jsp
+END
+user_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/openkm/!svn/ver/7148/branches/5.1/openkm/src/main/webapp/admin/user_list.jsp
+END
+data_browser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/7150/branches/5.1/openkm/src/main/webapp/admin/data_browser.jsp
+END
+repository_export.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/7151/branches/5.1/openkm/src/main/webapp/admin/repository_export.jsp
+END
+profile_tab_folder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_tab_folder.jsp
+END
+profile_menu_tool.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_menu_tool.jsp
+END
+stamp_image_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/stamp_image_list.jsp
+END
+mime_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/openkm/!svn/ver/6050/branches/5.1/openkm/src/main/webapp/admin/mime_list.jsp
+END
+property_groups.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/6656/branches/5.1/openkm/src/main/webapp/admin/property_groups.jsp
+END
+crontab_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/crontab_list.jsp
+END
+twitter_account_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/twitter_account_edit.jsp
+END
+profile_tab_document.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_tab_document.jsp
+END
+check_email.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/check_email.jsp
+END
+profile_tab_mail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_tab_mail.jsp
+END
+mail_account_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/mail_account_list.jsp
+END
+profile_menu_help.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_menu_help.jsp
+END
+process_instance_view.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/openkm/!svn/ver/5819/branches/5.1/openkm/src/main/webapp/admin/process_instance_view.jsp
+END
+role_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/openkm/!svn/ver/7148/branches/5.1/openkm/src/main/webapp/admin/role_list.jsp
+END
+stamp_text_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/7145/branches/5.1/openkm/src/main/webapp/admin/stamp_text_edit.jsp
+END
+activity_log.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/7213/branches/5.1/openkm/src/main/webapp/admin/activity_log.jsp
+END
+config_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/openkm/!svn/ver/6048/branches/5.1/openkm/src/main/webapp/admin/config_list.jsp
+END
+document_filter_rule_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/document_filter_rule_list.jsp
+END
+config.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/config.jsp
+END
+mail_filter_rule_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/mail_filter_rule_list.jsp
+END
+document_filter_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/document_filter_list.jsp
+END
+mail_filter_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/mail_filter_list.jsp
+END
+profile_menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_menu.jsp
+END
+repository_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/6438/branches/5.1/openkm/src/main/webapp/admin/repository_edit.jsp
+END
+language_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/language_edit.jsp
+END
+benchmark.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/benchmark.jsp
+END
+repository_checker.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/repository_checker.jsp
+END
+profile_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/5686/branches/5.1/openkm/src/main/webapp/admin/profile_edit.jsp
+END
+profile_menu_bookmark.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_menu_bookmark.jsp
+END
+twitter_account_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/twitter_account_list.jsp
+END
+profile_misc.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/5686/branches/5.1/openkm/src/main/webapp/admin/profile_misc.jsp
+END
+report_get_params.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/6865/branches/5.1/openkm/src/main/webapp/admin/report_get_params.jsp
+END
+hibernate_stats.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/5811/branches/5.1/openkm/src/main/webapp/admin/hibernate_stats.jsp
+END
+report_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/openkm/!svn/ver/6865/branches/5.1/openkm/src/main/webapp/admin/report_edit.jsp
+END
+profile_wizard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_wizard.jsp
+END
+process_definition_view.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/openkm/!svn/ver/7234/branches/5.1/openkm/src/main/webapp/admin/process_definition_view.jsp
+END
+process_definition_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/openkm/!svn/ver/5816/branches/5.1/openkm/src/main/webapp/admin/process_definition_list.jsp
+END
+profile_menu_file.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/profile_menu_file.jsp
+END
+stamp_text_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/webapp/admin/stamp_text_list.jsp
+END
+user_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/openkm/!svn/ver/7091/branches/5.1/openkm/src/main/webapp/admin/user_edit.jsp
+END

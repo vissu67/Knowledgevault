@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/openkm/!svn/ver/7274/branches/5.1/openkm/src/main/resources
+END
+default.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/openkm/!svn/ver/7229/branches/5.1/openkm/src/main/resources/default.sql
+END
+jbpm.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/openkm/!svn/ver/6836/branches/5.1/openkm/src/main/resources/jbpm.cfg.xml
+END
+jbpm.mail.templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/jbpm.mail.templates.xml
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/openkm/!svn/ver/7188/branches/5.1/openkm/src/main/resources/hibernate.cfg.xml
+END

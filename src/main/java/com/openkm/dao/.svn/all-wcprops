@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/openkm/!svn/ver/7091/branches/5.1/openkm/src/main/java/com/openkm/dao
+END
+HibernateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/openkm/!svn/ver/6948/branches/5.1/openkm/src/main/java/com/openkm/dao/HibernateUtil.java
+END
+ReportDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/6857/branches/5.1/openkm/src/main/java/com/openkm/dao/ReportDAO.java
+END
+SchemaUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/java/com/openkm/dao/SchemaUpdate.java
+END
+TwitterAccountDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/openkm/!svn/ver/5607/branches/5.1/openkm/src/main/java/com/openkm/dao/TwitterAccountDAO.java
+END
+UserItemsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/5607/branches/5.1/openkm/src/main/java/com/openkm/dao/UserItemsDAO.java
+END
+LanguageDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/5705/branches/5.1/openkm/src/main/java/com/openkm/dao/LanguageDAO.java
+END
+DocumentFilterDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/openkm/!svn/ver/5607/branches/5.1/openkm/src/main/java/com/openkm/dao/DocumentFilterDAO.java
+END
+KeyValueDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/6533/branches/5.1/openkm/src/main/java/com/openkm/dao/KeyValueDAO.java
+END
+DashboardDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/5607/branches/5.1/openkm/src/main/java/com/openkm/dao/DashboardDAO.java
+END
+CronTabDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/openkm/!svn/ver/5607/branches/5.1/openkm/src/main/java/com/openkm/dao/CronTabDAO.java
+END
+MimeTypeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/5607/branches/5.1/openkm/src/main/java/com/openkm/dao/MimeTypeDAO.java
+END
+LockTokenDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/openkm/!svn/ver/5607/branches/5.1/openkm/src/main/java/com/openkm/dao/LockTokenDAO.java
+END
+ActivityDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/5607/branches/5.1/openkm/src/main/java/com/openkm/dao/ActivityDAO.java
+END
+MailAccountDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/openkm/!svn/ver/5696/branches/5.1/openkm/src/main/java/com/openkm/dao/MailAccountDAO.java
+END
+ProfileDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/openkm/!svn/ver/5607/branches/5.1/openkm/src/main/java/com/openkm/dao/ProfileDAO.java
+END
+AuthDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/7091/branches/5.1/openkm/src/main/java/com/openkm/dao/AuthDAO.java
+END
+LegacyDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/6945/branches/5.1/openkm/src/main/java/com/openkm/dao/LegacyDAO.java
+END
+UserConfigDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/openkm/!svn/ver/6427/branches/5.1/openkm/src/main/java/com/openkm/dao/UserConfigDAO.java
+END
+DatabaseMetadataDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/openkm/!svn/ver/6944/branches/5.1/openkm/src/main/java/com/openkm/dao/DatabaseMetadataDAO.java
+END
+ConfigDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/openkm/!svn/ver/7059/branches/5.1/openkm/src/main/java/com/openkm/dao/ConfigDAO.java
+END
+BookmarkDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/6427/branches/5.1/openkm/src/main/java/com/openkm/dao/BookmarkDAO.java
+END
+UserDocumentKeywordsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/openkm/!svn/ver/5607/branches/5.1/openkm/src/main/java/com/openkm/dao/UserDocumentKeywordsDAO.java
+END
+QueryParamsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/openkm/!svn/ver/7085/branches/5.1/openkm/src/main/java/com/openkm/dao/QueryParamsDAO.java
+END

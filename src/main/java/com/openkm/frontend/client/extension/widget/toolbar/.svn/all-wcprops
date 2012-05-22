@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/openkm/!svn/ver/5589/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/widget/toolbar
+END
+HasEnabledExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/openkm/!svn/ver/5589/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/widget/toolbar/HasEnabledExtension.java
+END
+HasPermissionsExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/openkm/!svn/ver/5589/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/widget/toolbar/HasPermissionsExtension.java
+END
+HasToolBarBoxExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/openkm/!svn/ver/5589/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/widget/toolbar/HasToolBarBoxExtension.java
+END
+ToolBarBoxExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/openkm/!svn/ver/5589/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/widget/toolbar/ToolBarBoxExtension.java
+END
+ToolBarButtonExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/openkm/!svn/ver/5589/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/extension/widget/toolbar/ToolBarButtonExtension.java
+END

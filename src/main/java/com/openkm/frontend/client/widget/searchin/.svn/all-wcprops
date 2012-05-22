@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/7247/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchin
+END
+FolderSelectPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/openkm/!svn/ver/6723/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchin/FolderSelectPopup.java
+END
+GroupPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/openkm/!svn/ver/6796/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchin/GroupPopup.java
+END
+HasSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/openkm/!svn/ver/6666/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchin/HasSearch.java
+END
+SearchControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/openkm/!svn/ver/6796/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchin/SearchControl.java
+END
+SearchMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/openkm/!svn/ver/6796/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchin/SearchMetadata.java
+END
+FolderSelectTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/openkm/!svn/ver/5554/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchin/FolderSelectTree.java
+END
+SearchAdvanced.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/openkm/!svn/ver/5554/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchin/SearchAdvanced.java
+END
+SearchIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/openkm/!svn/ver/6796/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchin/SearchIn.java
+END
+CalendarWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchin/CalendarWidget.java
+END
+ControlSearchIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/openkm/!svn/ver/5554/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchin/ControlSearchIn.java
+END
+SearchNormal.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/openkm/!svn/ver/7247/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/searchin/SearchNormal.java
+END

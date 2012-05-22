@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/7243/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean
+END
+Report.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/openkm/!svn/ver/6862/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/Report.hbm.xml
+END
+DocumentFilterRule.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/DocumentFilterRule.hbm.xml
+END
+User.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/User.hbm.xml
+END
+TwitterAccount.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/TwitterAccount.hbm.xml
+END
+MailFilterRule.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/MailFilterRule.hbm.xml
+END
+Language.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/Language.hbm.xml
+END
+DocumentFilter.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/DocumentFilter.hbm.xml
+END
+Dashboard.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/5384/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/Dashboard.hbm.xml
+END
+MailFilter.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/MailFilter.hbm.xml
+END
+CronTab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/CronTab.hbm.xml
+END
+MimeType.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/MimeType.hbm.xml
+END
+LockToken.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/LockToken.hbm.xml
+END
+Activity.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/openkm/!svn/ver/5959/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/Activity.hbm.xml
+END
+Translation.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/Translation.hbm.xml
+END
+MailAccount.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/MailAccount.hbm.xml
+END
+Profile.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/openkm/!svn/ver/7243/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/Profile.hbm.xml
+END
+Role.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/Role.hbm.xml
+END
+UserConfig.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/UserConfig.hbm.xml
+END
+DatabaseMetadata.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/openkm/!svn/ver/6320/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/DatabaseMetadata.hbm.xml
+END
+Config.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/Config.hbm.xml
+END
+Bookmark.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/Bookmark.hbm.xml
+END
+QueryParams.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/dao/bean/QueryParams.hbm.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/frontend/public/img/icon/chat
+END
+chat_connected.png
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/frontend/public/img/icon/chat/chat_connected.png
+END
+chat_disconnected.png
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/frontend/public/img/icon/chat/chat_disconnected.png
+END
+new_chat_room.png
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/frontend/public/img/icon/chat/new_chat_room.png
+END
+add_user.png
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/resources/com/openkm/frontend/public/img/icon/chat/add_user.png
+END

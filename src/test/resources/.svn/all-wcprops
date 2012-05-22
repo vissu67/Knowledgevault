@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/openkm/!svn/ver/7217/branches/5.1/openkm/src/test/resources
+END
+repository_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/test/resources/repository_default.xml
+END
+PropertyGroups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/openkm/!svn/ver/6511/branches/5.1/openkm/src/test/resources/PropertyGroups.xml
+END
+forms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/openkm/!svn/ver/7196/branches/5.1/openkm/src/test/resources/forms.xml
+END
+PropertyGroups.cnd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/test/resources/PropertyGroups.cnd
+END
+benchmark.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/test/resources/benchmark.txt
+END
+repository.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/test/resources/repository.xml
+END

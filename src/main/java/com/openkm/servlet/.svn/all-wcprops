@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/openkm/!svn/ver/7254/branches/5.1/openkm/src/main/java/com/openkm/servlet
+END
+BasicSecuredServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/java/com/openkm/servlet/BasicSecuredServlet.java
+END
+TestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/openkm/!svn/ver/5615/branches/5.1/openkm/src/main/java/com/openkm/servlet/TestServlet.java
+END
+TextToSpeechServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/openkm/!svn/ver/5615/branches/5.1/openkm/src/main/java/com/openkm/servlet/TextToSpeechServlet.java
+END
+WorkflowRegisterServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/openkm/!svn/ver/7221/branches/5.1/openkm/src/main/java/com/openkm/servlet/WorkflowRegisterServlet.java
+END
+MimeIconServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/openkm/!svn/ver/5615/branches/5.1/openkm/src/main/java/com/openkm/servlet/MimeIconServlet.java
+END
+HibernateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/openkm/!svn/ver/4999/branches/5.1/openkm/src/main/java/com/openkm/servlet/HibernateFilter.java
+END
+RepositoryStartupServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/openkm/!svn/ver/6987/branches/5.1/openkm/src/main/java/com/openkm/servlet/RepositoryStartupServlet.java
+END
+FlagIconServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/openkm/!svn/ver/5615/branches/5.1/openkm/src/main/java/com/openkm/servlet/FlagIconServlet.java
+END
+ImageLogoServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/openkm/!svn/ver/5615/branches/5.1/openkm/src/main/java/com/openkm/servlet/ImageLogoServlet.java
+END
+StatusServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/openkm/!svn/ver/6433/branches/5.1/openkm/src/main/java/com/openkm/servlet/StatusServlet.java
+END
+SyndicationServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/openkm/!svn/ver/5615/branches/5.1/openkm/src/main/java/com/openkm/servlet/SyndicationServlet.java
+END
+SessionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/openkm/!svn/ver/5615/branches/5.1/openkm/src/main/java/com/openkm/servlet/SessionListener.java
+END
+DownloadServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/openkm/!svn/ver/7067/branches/5.1/openkm/src/main/java/com/openkm/servlet/DownloadServlet.java
+END
+WebdavServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/openkm/!svn/ver/7120/branches/5.1/openkm/src/main/java/com/openkm/servlet/WebdavServlet.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/openkm/!svn/ver/7261/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/openkm/!svn/ver/5576/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/Status.java
+END
+NewsDashboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/openkm/!svn/ver/5576/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/NewsDashboard.java
+END
+GeneralDashboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/openkm/!svn/ver/5576/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/GeneralDashboard.java
+END
+ImageHover.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/openkm/!svn/ver/5576/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/ImageHover.java
+END
+UserDashboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/openkm/!svn/ver/5576/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/UserDashboard.java
+END
+MailDashboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/openkm/!svn/ver/5576/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/MailDashboard.java
+END
+AnchorExtended.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/openkm/!svn/ver/5576/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/AnchorExtended.java
+END
+DashboardWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/openkm/!svn/ver/6131/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/DashboardWidget.java
+END
+Score.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/openkm/!svn/ver/5576/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/Score.java
+END
+ToolBarBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/openkm/!svn/ver/5576/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/ToolBarBox.java
+END
+HorizontalToolBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/openkm/!svn/ver/5576/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/HorizontalToolBar.java
+END
+WidgetToFire.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/openkm/!svn/ver/5576/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/WidgetToFire.java
+END
+ControlSearchIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/openkm/!svn/ver/5576/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/ControlSearchIn.java
+END

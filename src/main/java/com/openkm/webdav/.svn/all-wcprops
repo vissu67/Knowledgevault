@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/openkm/!svn/ver/7119/branches/5.1/openkm/src/main/java/com/openkm/webdav
+END
+DefaultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/openkm/!svn/ver/7119/branches/5.1/openkm/src/main/java/com/openkm/webdav/DefaultHandler.java
+END
+IOManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/openkm/!svn/ver/5536/branches/5.1/openkm/src/main/java/com/openkm/webdav/IOManagerImpl.java
+END
+DirListingExportHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/5536/branches/5.1/openkm/src/main/java/com/openkm/webdav/DirListingExportHandler.java
+END
+DefaultItemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/openkm/!svn/ver/5536/branches/5.1/openkm/src/main/java/com/openkm/webdav/DefaultItemFilter.java
+END
+LocatorFactoryImplEx.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/openkm/!svn/ver/5536/branches/5.1/openkm/src/main/java/com/openkm/webdav/LocatorFactoryImplEx.java
+END

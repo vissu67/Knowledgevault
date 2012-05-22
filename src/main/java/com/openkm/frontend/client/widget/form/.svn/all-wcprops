@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/openkm/!svn/ver/7277/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/form
+END
+FolderSelectPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/openkm/!svn/ver/6721/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/form/FolderSelectPopup.java
+END
+HasDatabaseRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/openkm/!svn/ver/6567/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/form/HasDatabaseRecord.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/6567/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/form/Status.java
+END
+HasWorkflow.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/openkm/!svn/ver/6819/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/form/HasWorkflow.java
+END
+DatabaseRecordSelectPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/openkm/!svn/ver/7092/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/form/DatabaseRecordSelectPopup.java
+END
+FolderSelectTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/openkm/!svn/ver/6567/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/form/FolderSelectTree.java
+END
+FormManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/openkm/!svn/ver/7277/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/form/FormManager.java
+END

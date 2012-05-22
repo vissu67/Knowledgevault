@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/openkm/!svn/ver/7261/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/workflow
+END
+WorkflowDashboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/openkm/!svn/ver/7228/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/workflow/WorkflowDashboard.java
+END
+WorkflowFormPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/openkm/!svn/ver/7261/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/workflow/WorkflowFormPanel.java
+END
+WorkflowWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/openkm/!svn/ver/7254/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/widget/dashboard/workflow/WorkflowWidget.java
+END

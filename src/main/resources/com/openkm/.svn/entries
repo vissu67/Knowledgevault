@@ -1,0 +1,46 @@
+10
+
+dir
+7277
+https://openkm.svn.sourceforge.net/svnroot/openkm/branches/5.1/openkm/src/main/resources/com/openkm
+https://openkm.svn.sourceforge.net/svnroot/openkm
+
+
+
+2011-10-02T20:37:51.948402Z
+7274
+monkiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+83b0a90a-68b0-46cf-a364-a9eead20c43e
+
+frontend
+dir
+
+dao
+dir
+
+servlet
+dir
+
+module
+dir
+
+extension
+dir
+
+util
+dir
+

@@ -1,0 +1,83 @@
+10
+
+dir
+7277
+https://openkm.svn.sourceforge.net/svnroot/openkm/branches/5.1/openkm/src/main/java/com/openkm/kea
+https://openkm.svn.sourceforge.net/svnroot/openkm
+
+
+
+2011-06-30T10:36:28.296242Z
+6955
+monkiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+83b0a90a-68b0-46cf-a364-a9eead20c43e
+
+stemmers
+dir
+
+tree
+dir
+
+metadata
+dir
+
+stopwords
+dir
+
+filter
+dir
+
+vocab
+dir
+
+RDFREpository.java
+file
+
+
+
+
+2011-10-05T06:10:58.857091Z
+2fe3e358326e631a9408e300f09839c2
+2011-04-04T08:26:28.858903Z
+5562
+monkiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8196
+
+util
+dir
+

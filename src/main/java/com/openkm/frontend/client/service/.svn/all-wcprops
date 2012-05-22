@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/openkm/!svn/ver/7253/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service
+END
+OKMNotifyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMNotifyService.java
+END
+OKMFolderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMFolderService.java
+END
+OKMDocumentServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/openkm/!svn/ver/7199/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMDocumentServiceAsync.java
+END
+OKMGeneralService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMGeneralService.java
+END
+OKMRepositoryServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/openkm/!svn/ver/6815/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMRepositoryServiceAsync.java
+END
+OKMDocumentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/openkm/!svn/ver/7199/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMDocumentService.java
+END
+OKMChatService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMChatService.java
+END
+OKMTestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMTestService.java
+END
+OKMMetadataService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/openkm/!svn/ver/6328/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMMetadataService.java
+END
+OKMMailServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMMailServiceAsync.java
+END
+OKMLanguageServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMLanguageServiceAsync.java
+END
+OKMMailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMMailService.java
+END
+OKMKeyValueServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/openkm/!svn/ver/6546/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMKeyValueServiceAsync.java
+END
+OKMThesaurusService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMThesaurusService.java
+END
+OKMDashboardServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMDashboardServiceAsync.java
+END
+OKMAuthServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMAuthServiceAsync.java
+END
+OKMPropertyGroupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/openkm/!svn/ver/6910/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMPropertyGroupService.java
+END
+OKMBookmarkServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMBookmarkServiceAsync.java
+END
+OKMDatabaseMetadataServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/openkm/!svn/ver/6478/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMDatabaseMetadataServiceAsync.java
+END
+OKMSearchServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMSearchServiceAsync.java
+END
+OKMNoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMNoteService.java
+END
+OKMWorkflowServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/openkm/!svn/ver/7253/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMWorkflowServiceAsync.java
+END
+OKMFolderServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMFolderServiceAsync.java
+END
+OKMWorkflowService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/openkm/!svn/ver/7253/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMWorkflowService.java
+END
+OKMGeneralServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMGeneralServiceAsync.java
+END
+OKMChatServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMChatServiceAsync.java
+END
+OKMTestServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMTestServiceAsync.java
+END
+OKMRepositoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/openkm/!svn/ver/6815/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMRepositoryService.java
+END
+OKMThesaurusServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMThesaurusServiceAsync.java
+END
+OKMPropertyServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMPropertyServiceAsync.java
+END
+OKMLanguageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMLanguageService.java
+END
+OKMPropertyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMPropertyService.java
+END
+OKMKeyValueService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/openkm/!svn/ver/6546/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMKeyValueService.java
+END
+OKMDashboardService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMDashboardService.java
+END
+OKMWorkspaceServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMWorkspaceServiceAsync.java
+END
+OKMWorkspaceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMWorkspaceService.java
+END
+OKMPropertyGroupServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/openkm/!svn/ver/6910/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMPropertyGroupServiceAsync.java
+END
+OKMAuthService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMAuthService.java
+END
+OKMUserConfigServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMUserConfigServiceAsync.java
+END
+OKMNoteServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMNoteServiceAsync.java
+END
+OKMUserConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMUserConfigService.java
+END
+OKMBookmarkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMBookmarkService.java
+END
+OKMDatabaseMetadataService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/openkm/!svn/ver/7017/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMDatabaseMetadataService.java
+END
+OKMSearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/openkm/!svn/ver/6024/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMSearchService.java
+END
+OKMNotifyServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/openkm/!svn/ver/5573/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/service/OKMNotifyServiceAsync.java
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/openkm/!svn/ver/7248/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean
+END
+GWTDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTDocument.java
+END
+GWTToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTToken.java
+END
+GWTMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/openkm/!svn/ver/7016/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTMetadata.java
+END
+GWTMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTMail.java
+END
+GWTLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTLanguage.java
+END
+GWTDashboardDocumentResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTDashboardDocumentResult.java
+END
+GWTKeyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/openkm/!svn/ver/6544/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTKeyValue.java
+END
+GWTTestImap.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTTestImap.java
+END
+GWTTaskInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTTaskInstance.java
+END
+GWTPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTPermission.java
+END
+GWTDashboardMailResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTDashboardMailResult.java
+END
+GWTResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTResultSet.java
+END
+GWTTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTTransition.java
+END
+GWTWorkspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/openkm/!svn/ver/6887/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTWorkspace.java
+END
+GWTPropertyGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/openkm/!svn/ver/6544/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTPropertyGroup.java
+END
+GWTComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTComment.java
+END
+RepositoryContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/RepositoryContext.java
+END
+GWTQueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTQueryResult.java
+END
+GWTObjectToOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTObjectToOrder.java
+END
+GWTBookmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTBookmark.java
+END
+GWTQueryParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/openkm/!svn/ver/6662/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTQueryParams.java
+END
+GWTAvailableOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTAvailableOption.java
+END
+GWTReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/6887/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTReport.java
+END
+GWTFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTFolder.java
+END
+GWTDashboardFolderResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTDashboardFolderResult.java
+END
+Coordenates.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/Coordenates.java
+END
+GWTKeyword.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTKeyword.java
+END
+GWTVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTVersion.java
+END
+GWTFileUploadingStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTFileUploadingStatus.java
+END
+GWTProcessDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTProcessDefinition.java
+END
+GWTPropertyParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/openkm/!svn/ver/6796/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTPropertyParams.java
+END
+GWTLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTLock.java
+END
+GWTWorkflowComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTWorkflowComment.java
+END
+GWTProcessInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTProcessInstance.java
+END
+GWTUserConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTUserConfig.java
+END
+GWTNote.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTNote.java
+END
+FileToUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/openkm/!svn/ver/6887/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/FileToUpload.java
+END
+GWTTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/GWTTerm.java
+END
+ToolBarOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/5629/branches/5.1/openkm/src/main/java/com/openkm/frontend/client/bean/ToolBarOption.java
+END

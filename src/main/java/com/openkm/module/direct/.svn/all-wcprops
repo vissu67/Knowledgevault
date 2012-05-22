@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/openkm/!svn/ver/7251/branches/5.1/openkm/src/main/java/com/openkm/module/direct
+END
+DirectStatsModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/openkm/!svn/ver/6432/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectStatsModule.java
+END
+DirectPropertyGroupModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/openkm/!svn/ver/7232/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectPropertyGroupModule.java
+END
+DirectAuthModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/7159/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectAuthModule.java
+END
+DirectScriptingModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/openkm/!svn/ver/6432/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectScriptingModule.java
+END
+DirectUserConfigModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/openkm/!svn/ver/6432/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectUserConfigModule.java
+END
+DirectSearchModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/openkm/!svn/ver/6675/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectSearchModule.java
+END
+DirectNoteModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/7158/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectNoteModule.java
+END
+DirectBookmarkModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/7062/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectBookmarkModule.java
+END
+DirectWorkflowModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/7251/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectWorkflowModule.java
+END
+DirectFolderModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/openkm/!svn/ver/7237/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectFolderModule.java
+END
+DirectDocumentModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/7222/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectDocumentModule.java
+END
+DirectRepositoryModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/openkm/!svn/ver/6432/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectRepositoryModule.java
+END
+DirectMailModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/openkm/!svn/ver/7065/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectMailModule.java
+END
+DirectPropertyModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/openkm/!svn/ver/6432/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectPropertyModule.java
+END
+DirectNotificationModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/openkm/!svn/ver/7066/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectNotificationModule.java
+END
+DirectDashboardModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/openkm/!svn/ver/6432/branches/5.1/openkm/src/main/java/com/openkm/module/direct/DirectDashboardModule.java
+END
